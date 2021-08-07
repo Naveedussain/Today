@@ -1,0 +1,39 @@
+body {
+    height: 100vh;
+}
+
+.one {
+    height: 100vh;
+}
+
+#post_logout {
+    background-image: url(https://images.unsplash.com/photo-1517707711963-adf9078bdf01?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+li {
+    list-style-type: none;
+}
+ #input2{
+    display: block;
+/*    width: 50%;
+*/    border: 2px solid grey;
+margin-left: 5px;
+    background-color: rgb(209, 217, 232);
+    /*margin-right: 5px;*/
+}
+#input1{
+      display: block;
+    
+          background-color: rgb(209, 217, 232);
+
+    border: 2px solid grey;
+    margin-left: 10px;   
+}
+.btnSubmit{
+    background-color: red;
+    color: white;
+    font-weight: 900;
+              
+             }
